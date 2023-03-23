@@ -1,0 +1,39 @@
+body {
+
+    background-color: rgb(204, 165, 240);
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#burger {
+    height: 450px;
+    width: auto;
+}
+
+#pizza {
+    height: 600px;
+    width: auto ;
+}
+
+#pasta {
+    height: 450px;
+    width: auto;
+}
+
+li {
+    font-size: 20px;
+}
+
+ol,
+h3,
+.extra {
+    text-align: left;
+}
+
+.ingredients {
+    text-align: left;
+}
